@@ -1,0 +1,34 @@
+body{
+    background-color:aliceblue ;
+    color: darkblue;
+    width: 1300px;
+}
+
+a{
+    text-decoration: none;
+    color: crimson;
+}
+
+
+#cimkep{
+    margin: 0px;
+   margin-left: 550px;
+
+}
+
+p h1{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+table{
+    width: 400px;
+    border-style: none;
+    margin: auto;
+}
+
+#kep1{
+    width: 230px;
+    height: 153px;
+}
